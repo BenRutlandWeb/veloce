@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "watch": "vite",
+    "production": "vite build",
+    "prod": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7",
+    "vite": "^2.5.0"
+  }
+}
